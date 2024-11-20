@@ -19,3 +19,7 @@ public class While {
         System.out.println("name.charAt(" + i + ") - არის 'z'." );
     }
 }
+
+
+
+
